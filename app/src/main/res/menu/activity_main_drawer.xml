@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Quick Links">
+        <menu>
+            <item
+                android:id="@+id/new_course"
+                android:icon="@drawable/mycourses"
+                android:title="Add Course"/>
+            <item
+                android:id="@+id/program"
+                android:icon="@drawable/slicon"
+                android:title="Add program"/>
+            <item
+                android:id="@+id/edit"
+                android:icon="@drawable/edit_icon"
+                android:title="Edit Profile"/>
+
+            <item
+                android:id="@+id/chat"
+                android:icon="@drawable/chat"
+                android:title="Quick Chat"/>
+
+
+            <item
+                android:id="@+id/practice_test"
+            android:icon="@drawable/test"
+            android:title="Mock Test" />
+        <item
+            android:id="@+id/past_tests"
+            android:icon="@drawable/test"
+            android:title="Past Tests" />
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/about"
+            android:title="About" />
+
+            <item
+            android:id="@+id/faqs"
+            android:icon="@drawable/faq"
+            android:title="FAQs" />
+</menu>
+    </item>
+
+</menu>

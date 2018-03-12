@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "517789972934",
+    "firebase_url": "https://studylink-16311.firebaseio.com",
+    "project_id": "studylink-16311",
+    "storage_bucket": "studylink-16311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517789972934:android:50bc2d26b6ec8202",
+        "android_client_info": {
+          "package_name": "zw.co.dhamarice.www.studylink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517789972934-152gpoqbe8u5lbqmd9rc8cfb6tae6djl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zw.co.dhamarice.www.studylink",
+            "certificate_hash": "89fa642c62f5c568b05eea82478e6475f9415f06"
+          }
+        },
+        {
+          "client_id": "517789972934-3tc88gjrptlfsrc053f2flkufeb98dh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKlhGRvrCgAtnMZ0SS8GkgjZy_1ePIU7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517789972934-3tc88gjrptlfsrc053f2flkufeb98dh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
